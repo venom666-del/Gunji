@@ -11,6 +11,10 @@
 *.exe
 *.dll
 
+Gunji.sln
+Gunji/
+packages/
+
 ## NuGet packages
 packages/
 
