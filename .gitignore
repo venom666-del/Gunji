@@ -1,0 +1,19 @@
+## Ignore Visual Studio temporary files, build results, and more
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+
+## NuGet packages
+packages/
+
+## Others
+*.log
+*.tmp
